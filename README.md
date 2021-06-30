@@ -28,7 +28,8 @@
 ![challenge 9](https://github.com/kellraym/database-checkpoint-kell/raw/main/Challenges/challenge9.PNG)
 
 ## Challenge 10
-air_id and dest_id are foreign keys referencing their respective tables
+`air_id` and `dest_id` are foreign keys referencing their respective tables
+
 ![challenge 10](https://github.com/kellraym/database-checkpoint-kell/raw/main/Challenges/challenge10.PNG)
 
 ## Challenge 11
