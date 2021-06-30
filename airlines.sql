@@ -1,7 +1,11 @@
 CREATE TABLE airlines (
-  id SERIAL,
+  id SERIAL PRIMARY KEY,
   name VARCHAR(255)
 );
 
-INSERT INTO destinations (name, average_temp, has_beaches, has_mountains, cost_of_flight) 
+INSERT INTO airlines (name) 
 VALUES 
+('Spirit'),
+('Lufthansa'),
+('Delta'),
+('Southwest');
